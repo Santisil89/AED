@@ -1,2 +1,2 @@
-Copilador:Mingw
-Editor:Visual Estudio Code
+--Copilador:Mingw version 6.3.0
+--Editor:Visual Estudio Code Comunity 2022
